@@ -1,0 +1,92 @@
+*{
+    margin:0%;
+    padding:0%;  
+} 
+header{
+    margin: 0%;
+    padding: 0%;
+}
+.first h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.fs-1 {
+    font-size: 3.0rem !important;
+    letter-spacing: 2px;
+}
+.fs-6{
+  letter-spacing: 4px;
+  font-size: 0.875rem;
+}
+nav span{
+    color: rgb(187, 37, 37);
+}
+.col-12{
+    position:relative;
+}
+.col-12 img{
+    max-width:100% ;
+    width: 1000pc;
+}
+.middle-text{
+    font-weight: bolder;
+    border: none;
+    margin: 0;
+    padding:0;
+}
+.middle-text .p1{
+    font-size: 20px;
+    color: rgb(181, 181, 181);
+    padding-top: 150px;
+}
+.middle-text .p2{
+    font-size: 20px;
+    color: rgb(181, 181, 181);
+    padding-bottom:50px;
+}
+.second-image{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: rgba(28, 27, 27, 0.464);
+    border:none;
+}
+.second-image img {
+    width: 880px;
+    height: 495px;
+}
+footer{
+    justify-content: center;
+    align-items: center;
+    padding-top:230px;
+}
+footer .col-12{
+    text-align: center;
+    word-spacing:90px;
+    font-size:30px;
+}
+footer .icon{
+    padding-bottom: 200px;
+}
+#facebook{
+    color:#3d75b2 ;
+
+}
+#instagram{
+    color: hwb(0 39% 58%);
+
+}
+#linkedin{
+    color: hsl(210, 84%, 68%); 
+
+}
+#youtube{
+    color: hwb(7 8% 12%);
+}
+.footer .copy{
+    padding-bottom: 30px;
+    color: rgb(182, 180, 180);
+    font-size :14px;
+}
+.footer .copy span{
+    color: white;
+}
